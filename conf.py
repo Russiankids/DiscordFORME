@@ -1,5 +1,5 @@
 # Discord token [string]
-TOKEN = 'MTM4Njc1MTE5ODcxOTI0NjUzMA.G4IS7W.gGBbt4y2gsRbtZomIAUKNNqEniteQZnDJ1pnv4'
+TOKEN = 'MTM4Njc1MTE5ODcxOTI0NjUzMA.God1vl.9rhdIpRXdGPSzYdKTFkEogWUN7J3JNezm1wy24'
 # Server id [int]
 SERVER = 1350592351965417613
 # From channels [list<int>]
